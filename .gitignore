@@ -2,3 +2,7 @@ data/*_2.csv
 .venv
 .DS_Store
 
+# Large or regenerable analysis artifacts (do not commit)
+analysis/wildchat/hf_cache/
+analysis/output/
+analysis/wildchat/output/
